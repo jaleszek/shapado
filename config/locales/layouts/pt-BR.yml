@@ -1,0 +1,67 @@
+# Messages for Brazilian Portuguese (português do Brasil)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Dianakc
+# Author: Giro720
+# Author: Leosls
+# Author: Luckas
+# Author: Luckas Blade
+# Author: Vgeorge
+pt-BR: 
+  layouts: 
+    application: 
+      ask_question: Faça uma pergunta
+      badges: Condecorações
+      by_me: Por mim
+      collaborate: Colaborou
+      contributed: Contribuiu
+      follow_us_and_share: Siga e compartilhe
+      forgot: Esqueceu?
+      home: Início
+      languages: Línguas
+      log_in: Entrar
+      logged: Autenticado como %{login}
+      logout: Sair
+      manage_ads: Gerenciar anúncios
+      moderate: Moderar
+      now: agora!
+      openid: 
+        explaination: "Se pretende registar-se ou entrar, selecione o seu provedor de OpenID, por favor:"
+      pages: Páginas
+      preferred: Preferido
+      questions: Perguntas
+      questions_in: Perguntas em
+      questions_tagged: tagueada com
+      random_question: Pergunta aleatória
+      search: Pesquisar
+      settings: Preferências
+      signup: Registar-se
+      subscribe: Inscrever-se
+      tags: Tags
+      title: Perguntas e Respostas
+      unanswered: Sem resposta
+      users: Usuários
+      welcome_from: Bem-vindo(a)! Você pode
+    manage: 
+      access: Acesso
+      actions: Ações
+      announcements: Anúncios
+      appearance: Aparência
+      constrains: Requisitos
+      content: Conteúdo
+      dashboard: Painel de controle
+      domain: Domínio
+      general: Geral
+      invitations: Convites
+      members: Membros
+      pages: Páginas
+      properties: Propriedades
+      reputation: Reputação
+      rewards: Recompensas
+      social: Social
+      stats: Estatísticas
+      theme: Tema
+      themes: Temas
+      widgets: Widgets
+    notifications: 
+      message: Se você não quer mais receber as notificações automáticas de %{group}, altere as suas preferências na página das notificações.

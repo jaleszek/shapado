@@ -1,0 +1,16 @@
+# Messages for Czech (česky)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Chmee2
+cs: 
+  comments: 
+    edit: 
+      title: Upravit komentář
+    shared: 
+      add_comment: Přidat komentář...
+      comment_submit: Komentář
+      reply: Odpovědět
+      said: řekl
+  models: 
+    comment: Komentář
+    comments: Komentáře
